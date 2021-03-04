@@ -5,5 +5,10 @@
 ## Overview
 Los nuevos datasets que se construyen y actualizan diariamente con información del Covid-19 nos permiten explorar diferentes temas de investigación y análisis. Dichos datos, junto con su variabilidad temporal y territorial, nos muestran divergencias en las tasas de mortalidad no solo a escalas globales, sino también sociales. Dentro de la información relevante del Covid-19 destaca el registro de una mortalidad más alta en el caso del sexo masculino frente al sexo femenino. Si bien, por la novedad del virus, dicha tendencia apenas ha comenzado a ser analizada, en el caso de la entidad mexicana se tienen pocos estudios explorativos que indagen sobre variables determinantes en el desencadenamiento de la mortalidad para ambos sexos. El objetivo de este proyecto es contribuir a dicha brecha a partir de la exploración de datos abiertos buscando identifcar patrones entre enfermedades crónico-degenerativas y características demográficas bajo un enfoque de género.
 
+## Hipótesis
+Las causas de mortalidad en la población femenina mexicana pueden clusterizarse por regiones. 
+
+## Objetivo
+Crear una herramienta que permita visualizar las principales causas de mortalidad en mujeres por región que sirva como referencia para la toma de decisiones en política pública.
 
 ## Referencias
