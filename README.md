@@ -18,4 +18,5 @@ Nuestro objetivo es evidenciar que gran parte de las enfermedades consideradas a
 
 ## Referencias
 Instituto Nacional de Geografía y Estadística https://www.inegi.org.mx/programas/mortalidad/#Datos_abiertos
+
 API Data México https://api.datamexico.org/
