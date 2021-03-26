@@ -1,6 +1,7 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Mortalidad de mujeres en México: implicaciones y características
+# ¿De qué mueren las mujeres mexicanas?
+Un análisis de datos exploratorio para contribuir a la política pública
 
 ## Overview
 Actualmente México se encuentra en el ranking de los países latinoamericanos con mayores contagios por Covid-19. Esto no es de sorprender si tomamos en cuenta que México se ha encontrado también en primeros lugares por padecimiento de enfermedades de menor contagio, pero también consideradas como pandemias normalizadas como lo son la diabetes y la obesidad. Una de las alertas que deviene junto con la pandemia de Covid-19 ha sido, precisamente, tomar en cuenta algunas otras enfermedades y hábitos de cuidado como factores de incidencia que podrían determinar mayor riesgo para quienes contraen el virus.
